@@ -1,52 +1,24 @@
-# Experiment: Addition of Two Complex Numbers in Python
+# Experiment No: 2 - Adding Two Complex Numbers
 
-## 🧠 AIM
+## AIM
+To write a Python program for adding two complex numbers, and get the user input using the `eval()` function.
 
-To write a Python program for adding two complex numbers, where the user inputs the numbers using the `eval()` function.
-
----
-
-## 📝 ALGORITHM
-
+## ALGORITHM
 1. Begin the program.
-2. Use `eval()` to get two complex numbers as input from the user.
+2. Use the `eval()` function to get two complex numbers as input from the user.
 3. Print the complex numbers entered by the user.
 4. Perform the addition of the two complex numbers using the `+` operator.
 5. Print the sum of the two complex numbers.
 6. Terminate the program.
 
----
-
-## 💻 PROGRAM
-
+## PROGRAM
 ```python
+# Reg.No- Name- Write your code here
 
-#Reg.No:
-#Name:
-
-A = eval(input())
-B = eval(input())
-
-print(f"A is {A}")
-print(f"B is {B}")
-
-sum_complex = A + B
-
-print(f"Sum is {sum_complex}")
 ```
-## 📝 OUTPUT
 
-<!-- EDIT HERE -->
-Edit
-A is (3+4j)
-B is (1+2j)
-Sum is (4+6j)
-<!-- END EDIT -->
+## OUTPUT
+
 
 ## RESULT
-<!-- EDIT HERE -->
-Thus, the Python program for adding two complex numbers has been successfully implemented and executed.
-
-<!-- END EDIT -->
-
-
+Thus the python program for  adding two complex numbers has been implemented and executed successfully.
