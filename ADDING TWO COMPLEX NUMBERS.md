@@ -36,12 +36,17 @@ print(f"Sum is {sum_complex}")
 ```
 ## 📝 OUTPUT
 
+<!-- EDIT HERE -->
+Edit
 A is (3+4j)
 B is (1+2j)
 Sum is (4+6j)
+<!-- END EDIT -->
 
 ## RESULT
-Thus the python program for  adding two complex numbers has been implemented and executed successfully.
+<!-- EDIT HERE -->
+Thus, the Python program for adding two complex numbers has been successfully implemented and executed.
 
+<!-- END EDIT -->
 
 
