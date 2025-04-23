@@ -1,4 +1,4 @@
-## Experiment No: 4 – Conditional Statements- Checking Vowel or not
+## Experiment No: 1d – Conditional Statements- Checking Vowel or not
 
 ## AIM  
 To Write a Python program to check whether the given character is a vowel or not using if..else statement
