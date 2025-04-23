@@ -1,4 +1,4 @@
-# Experiment No: 2- Data Types – Printing Integer Literals
+# Experiment No: 1B- Data Types – Printing Integer Literals
 
 ## AIM  
 To write a Python program to print the following integer literals: 123, 456, 789.
