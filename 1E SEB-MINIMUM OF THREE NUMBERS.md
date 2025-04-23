@@ -1,4 +1,4 @@
-# Experiment No: 5 – SEB-Minimum of Three Numbers
+# Experiment No: 1e – SEB-Minimum of Three Numbers
 
 ## AIM  
 To write a Python program to find the minimum between three integer numbers using a conditional expression (Ternary operator).
