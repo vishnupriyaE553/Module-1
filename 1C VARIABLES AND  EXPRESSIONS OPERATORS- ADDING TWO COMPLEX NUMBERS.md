@@ -1,26 +1,27 @@
 # Experiment No: 1c-Varibles and Expressions, Operators - Adding Two Complex Numbers
 
 ## AIM
-To write a Python program for adding two complex numbers, and get the user input using the `eval()` function.
+To Write a python program for floor division on the given values using // operator
 
 ## ALGORITHM
 1. Begin the program.
-2. Use the `eval()` function to get two complex numbers as input from the user.
-3. Print the complex numbers entered by the user.
-4. Perform the addition of the two complex numbers using the `+` operator.
-5. Print the sum of the two complex numbers.
-6. Terminate the program.
-
+2. Read two integer inputs a and b from the user.
+3. Perform the floor division of the two numbers using the `//` operator.
+4. Print the output.
+5. Terminate the program.
+   
 ## PROGRAM
 ```python
-# Reg.No-
-#Name-
-#Write your code here
-
+# Reg.No-212223060305
+#Name-Vishnu Priya E
+a=int(input())
+b=int(input())
+a//=b
+print(a)
 ```
-
 ## OUTPUT
+<img width="535" height="399" alt="image" src="https://github.com/user-attachments/assets/3be62935-307a-4f7e-a98f-e5786fd3c505" />
 
 
 ## RESULT
-Thus the python program for  adding two complex numbers has been implemented and executed successfully.
+Thus the python program to perform floor division has been implemented and executed successfully.
