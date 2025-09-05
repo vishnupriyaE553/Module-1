@@ -1,4 +1,4 @@
-# Experiment No: 1c-Varibles and Expressions, Operators - Adding Two Complex Numbers
+# Experiment No: 1c-Varibles and Expressions, Operators - perform floor division
 
 ## AIM
 To Write a python program for floor division on the given values using // operator
