@@ -24,4 +24,4 @@ print(a)
 
 
 ## RESULT
-Thus the python program to perform floor division has been implemented and executed successfully.
+Thus, the python program to perform floor division has been implemented and executed successfully.
