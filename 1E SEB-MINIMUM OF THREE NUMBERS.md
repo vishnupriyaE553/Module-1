@@ -1,34 +1,25 @@
-# Experiment No: 1e – SEB-Minimum of Three Numbers
+# Experiment No: 1e – SEB-bitwise Operator and or
 
 ## AIM  
-To write a Python program to find the minimum between three integer numbers using a conditional expression (Ternary operator).
+To Write a python program to perform bitwise and or on the given integer values.
 
 ## ALGORITHM  
-1. Begin the program.  
-2. Read the three numbers: `num1`, `num2`, and `num3` from the user.  
-3. Compare `num1`, `num2`, and `num3` to find the smallest number:  
-   - If `num1` is less than or equal to both `num2` and `num3`, then `num1` is the minimum.  
-   - Else, if `num2` is less than or equal to both `num1` and `num3`, then `num2` is the minimum.  
-   - Otherwise, `num3` is the minimum.  
-4. Print the minimum value along with the input numbers in the format:  
-   `"The minimum of num1, num2, num3 is min_num."`  
-5. Terminate the program.
+1. Begin the program.
+2. Read two inputs from the user and store them in a and b.
+3. perform bitwise and or operators on the inputs and print the result.
+4. Terminate the program.
 
 ## PROGRAM
 ```python
-# Reg.No-
-# Name-
-# Write your code here
-
-num1 = int(input())
-num2 = int(input())
-num3 = int(input())
-
-min_num = num1 if (num1 <= num2 and num1 <= num3) else num2 if (num2 <= num1 and num2 <= num3) else num3
-
-print(f"The minimum of {num1}, {num2}, {num3} is {min_num}")
+# Reg.No-212223060305
+# Name-Vishnu Priya E
+a=int(input())
+b=int(input())
+print(a&b)
+print(a|b)
 ```
-
 ## OUTPUT
+<img width="522" height="392" alt="image" src="https://github.com/user-attachments/assets/1773f7e4-4352-4673-ad60-6c7a9c5369a8" />
 
 ## RESULT
+Thus the python program to perform bitwise and or is executed successfully.
