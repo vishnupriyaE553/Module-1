@@ -22,4 +22,4 @@ print(a|b)
 <img width="522" height="392" alt="image" src="https://github.com/user-attachments/assets/1773f7e4-4352-4673-ad60-6c7a9c5369a8" />
 
 ## RESULT
-Thus the python program to perform bitwise and or is executed successfully.
+Thus, the python program to perform bitwise and or is executed successfully.
